@@ -5,4 +5,4 @@ This is a simple example of KNN algorithm to classify unavailable product names 
 
 -------------------------------------------------------------------
 
-Éste es un ejemplo simple del algoritmo KNN para clasificar datos de ventas de una méquina expendedora donde no tenemos el nombre del producto, usando su precio, peso y posición en la máquina. Este es un problema real que tuve en mi trabajo, ya que nuestro proveedor de software tiene problemas de conexión y por eso perdimos estos datos. El dataset real es confidencial, asi que usaremos uno similar que he creado.
+Éste es un ejemplo simple del algoritmo KNN para clasificar datos de ventas de una máquina expendedora donde no tenemos el nombre del producto, usando su precio, peso y posición en la máquina. Este es un problema real que tuve en mi trabajo, ya que nuestro proveedor de software tiene problemas de conexión y por eso perdimos estos datos. El dataset real es confidencial, asi que usaremos uno similar que he creado.
